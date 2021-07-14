@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T15:56:18.568Z" agent="5.0 (Windows)" etag="H5RjAKirV7KOkxjhJkDM" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T15:59:04.325Z" agent="5.0 (Windows)" etag="adb-taXue0xnaCn9IyYX" version="14.8.5" type="github">
   <diagram id="uOxdFLylpcKKYRkNlYyO" name="Page-1">
     <mxGraphModel dx="2249" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xICjM29VZRpFUAn-JCZk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xICjM29VZRpFUAn-JCZk-1" target="xICjM29VZRpFUAn-JCZk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xICjM29VZRpFUAn-JCZk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xICjM29VZRpFUAn-JCZk-1" target="xICjM29VZRpFUAn-JCZk-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xICjM29VZRpFUAn-JCZk-1" value="&lt;div&gt;Homeoffice&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -72,6 +75,9 @@
         </mxCell>
         <mxCell id="xICjM29VZRpFUAn-JCZk-29" value="&lt;div&gt;Family&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Store Photos (connected with the document module)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="840" width="170" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xICjM29VZRpFUAn-JCZk-32" value="&lt;div&gt;General&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Plugin System&lt;/li&gt;&lt;li&gt;Provide Plugins in Markteplace so peopel can sell theire plugins.&lt;/li&gt;&lt;li&gt;Base App is free. Money will come from Plugins&lt;/li&gt;&lt;li&gt;But make the base version worth using it&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="740" width="170" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
